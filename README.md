@@ -1,7 +1,9 @@
 # dotfiles
 
 - alacritty
+- starship
 - fish
+  - oh-my-fish  
 - nvim
 - ranger
 - omf
