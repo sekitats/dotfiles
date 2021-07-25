@@ -5,8 +5,9 @@
 - fish
   - oh-my-fish  
 - nvim
-- ranger
-- omf
+  - ranger
+  - pynvim
+  - python 3
 - tmux
 
 ```
